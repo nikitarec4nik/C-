@@ -1,0 +1,16 @@
+E:\Практика по праграммированию\практ4\Pract4\Pract4\bin\Debug\net5.0\Pract4.exe
+E:\Практика по праграммированию\практ4\Pract4\Pract4\bin\Debug\net5.0\Pract4.deps.json
+E:\Практика по праграммированию\практ4\Pract4\Pract4\bin\Debug\net5.0\Pract4.runtimeconfig.json
+E:\Практика по праграммированию\практ4\Pract4\Pract4\bin\Debug\net5.0\Pract4.runtimeconfig.dev.json
+E:\Практика по праграммированию\практ4\Pract4\Pract4\bin\Debug\net5.0\Pract4.dll
+E:\Практика по праграммированию\практ4\Pract4\Pract4\bin\Debug\net5.0\ref\Pract4.dll
+E:\Практика по праграммированию\практ4\Pract4\Pract4\bin\Debug\net5.0\Pract4.pdb
+E:\Практика по праграммированию\практ4\Pract4\Pract4\obj\Debug\net5.0\Pract4.csproj.AssemblyReference.cache
+E:\Практика по праграммированию\практ4\Pract4\Pract4\obj\Debug\net5.0\Pract4.GeneratedMSBuildEditorConfig.editorconfig
+E:\Практика по праграммированию\практ4\Pract4\Pract4\obj\Debug\net5.0\Pract4.AssemblyInfoInputs.cache
+E:\Практика по праграммированию\практ4\Pract4\Pract4\obj\Debug\net5.0\Pract4.AssemblyInfo.cs
+E:\Практика по праграммированию\практ4\Pract4\Pract4\obj\Debug\net5.0\Pract4.csproj.CoreCompileInputs.cache
+E:\Практика по праграммированию\практ4\Pract4\Pract4\obj\Debug\net5.0\Pract4.dll
+E:\Практика по праграммированию\практ4\Pract4\Pract4\obj\Debug\net5.0\ref\Pract4.dll
+E:\Практика по праграммированию\практ4\Pract4\Pract4\obj\Debug\net5.0\Pract4.pdb
+E:\Практика по праграммированию\практ4\Pract4\Pract4\obj\Debug\net5.0\Pract4.genruntimeconfig.cache
