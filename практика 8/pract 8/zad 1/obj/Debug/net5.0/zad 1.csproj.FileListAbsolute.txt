@@ -1,0 +1,16 @@
+E:\Практика по праграммированию\GitHub\C-\практика 8\pract 8\zad 1\bin\Debug\net5.0\zad 1.exe
+E:\Практика по праграммированию\GitHub\C-\практика 8\pract 8\zad 1\bin\Debug\net5.0\zad 1.deps.json
+E:\Практика по праграммированию\GitHub\C-\практика 8\pract 8\zad 1\bin\Debug\net5.0\zad 1.runtimeconfig.json
+E:\Практика по праграммированию\GitHub\C-\практика 8\pract 8\zad 1\bin\Debug\net5.0\zad 1.runtimeconfig.dev.json
+E:\Практика по праграммированию\GitHub\C-\практика 8\pract 8\zad 1\bin\Debug\net5.0\zad 1.dll
+E:\Практика по праграммированию\GitHub\C-\практика 8\pract 8\zad 1\bin\Debug\net5.0\ref\zad 1.dll
+E:\Практика по праграммированию\GitHub\C-\практика 8\pract 8\zad 1\bin\Debug\net5.0\zad 1.pdb
+E:\Практика по праграммированию\GitHub\C-\практика 8\pract 8\zad 1\obj\Debug\net5.0\zad 1.csproj.AssemblyReference.cache
+E:\Практика по праграммированию\GitHub\C-\практика 8\pract 8\zad 1\obj\Debug\net5.0\zad 1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Практика по праграммированию\GitHub\C-\практика 8\pract 8\zad 1\obj\Debug\net5.0\zad 1.AssemblyInfoInputs.cache
+E:\Практика по праграммированию\GitHub\C-\практика 8\pract 8\zad 1\obj\Debug\net5.0\zad 1.AssemblyInfo.cs
+E:\Практика по праграммированию\GitHub\C-\практика 8\pract 8\zad 1\obj\Debug\net5.0\zad 1.csproj.CoreCompileInputs.cache
+E:\Практика по праграммированию\GitHub\C-\практика 8\pract 8\zad 1\obj\Debug\net5.0\zad 1.dll
+E:\Практика по праграммированию\GitHub\C-\практика 8\pract 8\zad 1\obj\Debug\net5.0\ref\zad 1.dll
+E:\Практика по праграммированию\GitHub\C-\практика 8\pract 8\zad 1\obj\Debug\net5.0\zad 1.pdb
+E:\Практика по праграммированию\GitHub\C-\практика 8\pract 8\zad 1\obj\Debug\net5.0\zad 1.genruntimeconfig.cache
