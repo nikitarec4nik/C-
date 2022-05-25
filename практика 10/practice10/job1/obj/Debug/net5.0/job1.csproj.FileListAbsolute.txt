@@ -1,0 +1,32 @@
+C:\Users\Жанна\OneDrive\Рабочий стол\колледж\практика {Программирование}\Отчеты\ПРАКТ.№10\practice10\job1\obj\Debug\net5.0\job1.csproj.AssemblyReference.cache
+C:\Users\Жанна\OneDrive\Рабочий стол\колледж\практика {Программирование}\Отчеты\ПРАКТ.№10\practice10\job1\obj\Debug\net5.0\job1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Жанна\OneDrive\Рабочий стол\колледж\практика {Программирование}\Отчеты\ПРАКТ.№10\practice10\job1\obj\Debug\net5.0\job1.AssemblyInfoInputs.cache
+C:\Users\Жанна\OneDrive\Рабочий стол\колледж\практика {Программирование}\Отчеты\ПРАКТ.№10\practice10\job1\obj\Debug\net5.0\job1.AssemblyInfo.cs
+C:\Users\Жанна\OneDrive\Рабочий стол\колледж\практика {Программирование}\Отчеты\ПРАКТ.№10\practice10\job1\obj\Debug\net5.0\job1.csproj.CoreCompileInputs.cache
+C:\Users\Жанна\OneDrive\Рабочий стол\колледж\практика {Программирование}\Отчеты\ПРАКТ.№10\practice10\job1\bin\Debug\net5.0\job1.exe
+C:\Users\Жанна\OneDrive\Рабочий стол\колледж\практика {Программирование}\Отчеты\ПРАКТ.№10\practice10\job1\bin\Debug\net5.0\job1.deps.json
+C:\Users\Жанна\OneDrive\Рабочий стол\колледж\практика {Программирование}\Отчеты\ПРАКТ.№10\practice10\job1\bin\Debug\net5.0\job1.runtimeconfig.json
+C:\Users\Жанна\OneDrive\Рабочий стол\колледж\практика {Программирование}\Отчеты\ПРАКТ.№10\practice10\job1\bin\Debug\net5.0\job1.runtimeconfig.dev.json
+C:\Users\Жанна\OneDrive\Рабочий стол\колледж\практика {Программирование}\Отчеты\ПРАКТ.№10\practice10\job1\bin\Debug\net5.0\job1.dll
+C:\Users\Жанна\OneDrive\Рабочий стол\колледж\практика {Программирование}\Отчеты\ПРАКТ.№10\practice10\job1\bin\Debug\net5.0\job1.pdb
+C:\Users\Жанна\OneDrive\Рабочий стол\колледж\практика {Программирование}\Отчеты\ПРАКТ.№10\practice10\job1\obj\Debug\net5.0\job1.dll
+C:\Users\Жанна\OneDrive\Рабочий стол\колледж\практика {Программирование}\Отчеты\ПРАКТ.№10\practice10\job1\obj\Debug\net5.0\refint\job1.dll
+C:\Users\Жанна\OneDrive\Рабочий стол\колледж\практика {Программирование}\Отчеты\ПРАКТ.№10\practice10\job1\obj\Debug\net5.0\job1.pdb
+C:\Users\Жанна\OneDrive\Рабочий стол\колледж\практика {Программирование}\Отчеты\ПРАКТ.№10\practice10\job1\obj\Debug\net5.0\job1.genruntimeconfig.cache
+C:\Users\Жанна\OneDrive\Рабочий стол\колледж\практика {Программирование}\Отчеты\ПРАКТ.№10\practice10\job1\obj\Debug\net5.0\ref\job1.dll
+E:\Практика по праграммированию\GitHub\C-\практика 10\practice10\job1\bin\Debug\net5.0\job1.exe
+E:\Практика по праграммированию\GitHub\C-\практика 10\practice10\job1\bin\Debug\net5.0\job1.deps.json
+E:\Практика по праграммированию\GitHub\C-\практика 10\practice10\job1\bin\Debug\net5.0\job1.runtimeconfig.json
+E:\Практика по праграммированию\GitHub\C-\практика 10\practice10\job1\bin\Debug\net5.0\job1.runtimeconfig.dev.json
+E:\Практика по праграммированию\GitHub\C-\практика 10\practice10\job1\bin\Debug\net5.0\job1.dll
+E:\Практика по праграммированию\GitHub\C-\практика 10\practice10\job1\bin\Debug\net5.0\ref\job1.dll
+E:\Практика по праграммированию\GitHub\C-\практика 10\practice10\job1\bin\Debug\net5.0\job1.pdb
+E:\Практика по праграммированию\GitHub\C-\практика 10\practice10\job1\obj\Debug\net5.0\job1.csproj.AssemblyReference.cache
+E:\Практика по праграммированию\GitHub\C-\практика 10\practice10\job1\obj\Debug\net5.0\job1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Практика по праграммированию\GitHub\C-\практика 10\practice10\job1\obj\Debug\net5.0\job1.AssemblyInfoInputs.cache
+E:\Практика по праграммированию\GitHub\C-\практика 10\practice10\job1\obj\Debug\net5.0\job1.AssemblyInfo.cs
+E:\Практика по праграммированию\GitHub\C-\практика 10\practice10\job1\obj\Debug\net5.0\job1.csproj.CoreCompileInputs.cache
+E:\Практика по праграммированию\GitHub\C-\практика 10\practice10\job1\obj\Debug\net5.0\job1.dll
+E:\Практика по праграммированию\GitHub\C-\практика 10\practice10\job1\obj\Debug\net5.0\ref\job1.dll
+E:\Практика по праграммированию\GitHub\C-\практика 10\practice10\job1\obj\Debug\net5.0\job1.pdb
+E:\Практика по праграммированию\GitHub\C-\практика 10\practice10\job1\obj\Debug\net5.0\job1.genruntimeconfig.cache
