@@ -155,114 +155,110 @@ namespace zad4
                 }
             } while (i < arr.Length); // do 2
 
-            /* Выводим полученный массив для обозрения пользователя.
-             * Не очень понимаю зачем это надо. Ведь на консоли и так всё отображается. Но в вашем коде это есть.
-             * ...Хотя, если пользователь вводит с ошибками, то экран засоряется сообщениями об ошибках и наглядность теряется.
-             * */
+
             Console.WriteLine("Полученная последовательность:");
             for (i = 0; i < arr.Length; i++)
             {
-                Console.WriteLine("{0}", arr[i]); // Здесь я вывожу не в строку, а в столбец. Мне решилось, что так нагляднее.
-            } // for
+                Console.WriteLine("{0}", arr[i]);
 
-            // Пишем всё это дело в файл.
-            // Открываем файл.
-            try // 1
-            {
-                // Инициируем потоки
-                fs = new FileStream(fileName, FileMode.Create, FileAccess.Write);
-                dataOut = new BinaryWriter(fs);
-            }
-            catch (IOException A)
-            {
-                Console.WriteLine("Внимание! Возникло исключение при открытии файла {0}.", fileName);
-                Console.WriteLine(A.Message);
-                Console.WriteLine("Аварийное завершение программы.");
-                return;
-            }
-            // end try 1
 
-            // Пишем данные
-            try // 2
-            {
-                for (i = 0; i < arr.Length; i++)
+                try // 1
                 {
-                    dataOut.Write(arr[i]);
+                    // Инициируем потоки
+                    fs = new FileStream(fileName, FileMode.Create, FileAccess.Write);
+                    dataOut = new BinaryWriter(fs);
                 }
-                Console.WriteLine("Файл записан.");
-            }
-            catch (IOException B)
-            {
-                Console.WriteLine("Внимание! Возникло исключение при записи файла.\n" + B.Message);
-            }
-            finally
-            {
-                dataOut.Close(); // Закрываем пишущий поток
-            }
-            // end try 2
-            // Открываем файл для чтения
-            try // 3
-            {
-                fs = new FileStream(fileName, FileMode.Open, FileAccess.Read);
-                dataIn = new BinaryReader(fs);
-            }
-            catch (IOException C)
-            {
-                Console.WriteLine("Внимание! Возникло исключение при открытии файла {0}.", fileName);
-                Console.WriteLine(C.Message);
-                Console.WriteLine("Аварийное завершение программы.");
-                return;
-            }
-            // end try 3
-
-            ShowMenu(); // Показываем меню. Его можно вставить внуть цикла do_3. Тогда оно будет выводиться после выполнения каждого задания.
-            bool IsExit; // Флаг завершения работы программы
-            byte itemMenu;
-
-            try // 4
-            {
-                do // 3
+                catch (IOException A)
                 {
-                    IsExit = false;
+                    Console.WriteLine("Внимание! Возникло исключение при открытии файла {0}.", fileName);
+                    Console.WriteLine(A.Message);
+                    Console.WriteLine("Аварийное завершение программы.");
+                    return;
+                }
+                // end try 1
 
-                    try // 5
+                // Пишем данные
+                try // 2
+                {
+                    for (i = 0; i < arr.Length; i++)
                     {
-                        Console.WriteLine("Введите номер пункта меню");
-                        itemMenu = byte.Parse(Console.ReadLine());
-                        switch (itemMenu) // 1
+                        dataOut.Write(arr[i]);
+                    }
+                    Console.WriteLine("Файл записан.");
+                }
+                catch (IOException B)
+                {
+                    Console.WriteLine("Внимание! Возникло исключение при записи файла.\n" + B.Message);
+                }
+                finally
+                {
+                    dataOut.Close(); // Закрываем пишущий поток
+                }
+                // end try 2
+                // Открываем файл для чтения
+                try // 3
+                {
+                    fs = new FileStream(fileName, FileMode.Open, FileAccess.Read);
+                    dataIn = new BinaryReader(fs);
+                }
+                catch (IOException C)
+                {
+                    Console.WriteLine("Внимание! Возникло исключение при открытии файла {0}.", fileName);
+                    Console.WriteLine(C.Message);
+                    Console.WriteLine("Аварийное завершение программы.");
+                    return;
+                }
+                // end try 3
+
+                ShowMenu(); // Показываем меню. Его можно вставить внуть цикла do_3. Тогда оно будет выводиться после выполнения каждого задания.
+                bool IsExit; // Флаг завершения работы программы
+                byte itemMenu;
+
+                try // 4
+                {
+                    do // 3
+                    {
+                        IsExit = false;
+
+                        try // 5
                         {
-                            case 0:
-                                IsExit = true;
-                                break;
-                            case 1:
-                                Task1(dataIn);
-                                break;
-                            case 2:
-                                Task2(dataIn);
-                                break;
-                            case 3:
-                                Task3(dataIn);
-                                break;
-                            default:
-                                Console.WriteLine("Нет такого пункта меню.");
-                                break;
-                        } // switch 1
-                    }
-                    catch (FormatException)
-                    {
-                        Console.WriteLine("Ошибка! Неверный формат при вводе пункта меню.");
-                    }
-                    // end try 5
+                            Console.WriteLine("Введите номер пункта меню");
+                            itemMenu = byte.Parse(Console.ReadLine());
+                            switch (itemMenu) // 1
+                            {
+                                case 0:
+                                    IsExit = true;
+                                    break;
+                                case 1:
+                                    Task1(dataIn);
+                                    break;
+                                case 2:
+                                    Task2(dataIn);
+                                    break;
+                                case 3:
+                                    Task3(dataIn);
+                                    break;
+                                default:
+                                    Console.WriteLine("Нет такого пункта меню.");
+                                    break;
+                            } // switch 1
+                        }
+                        catch (FormatException)
+                        {
+                            Console.WriteLine("Ошибка! Неверный формат при вводе пункта меню.");
+                        }
+                        // end try 5
 
-                } while (!IsExit); // do 3
-            }
-            finally
-            {
-                dataIn.Close();
-            }
-            // end try 4
-            Console.WriteLine("Конец программы");
+                    } while (!IsExit); // do 3
+                }
+                finally
+                {
+                    dataIn.Close();
+                }
+                // end try 4
+                Console.WriteLine("Конец программы");
 
-        } // Main()
+            } // Main()
+        }
     }
 }

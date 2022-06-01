@@ -13,3 +13,4 @@ E:\Практика по праграммированию\GitHub\C-\практи
 E:\Практика по праграммированию\GitHub\C-\практика 16\pract16\zad1\obj\Debug\net5.0\ref\zad1.dll
 E:\Практика по праграммированию\GitHub\C-\практика 16\pract16\zad1\obj\Debug\net5.0\zad1.pdb
 E:\Практика по праграммированию\GitHub\C-\практика 16\pract16\zad1\obj\Debug\net5.0\zad1.genruntimeconfig.cache
+E:\Практика по праграммированию\GitHub\C-\практика 16\pract16\zad1\obj\Debug\net5.0\zad1.csproj.AssemblyReference.cache
