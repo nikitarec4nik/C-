@@ -1,0 +1,24 @@
+D:\vdm\практика\практ C#\17\1\2b\bin\Debug\net5.0\2b.deps.json
+D:\vdm\практика\практ C#\17\1\2b\bin\Debug\net5.0\2b.dll
+D:\vdm\практика\практ C#\17\1\2b\bin\Debug\net5.0\ref\2b.dll
+D:\vdm\практика\практ C#\17\1\2b\bin\Debug\net5.0\2b.pdb
+D:\vdm\практика\практ C#\17\1\2b\obj\Debug\net5.0\2b.csproj.AssemblyReference.cache
+D:\vdm\практика\практ C#\17\1\2b\obj\Debug\net5.0\2b.GeneratedMSBuildEditorConfig.editorconfig
+D:\vdm\практика\практ C#\17\1\2b\obj\Debug\net5.0\2b.AssemblyInfoInputs.cache
+D:\vdm\практика\практ C#\17\1\2b\obj\Debug\net5.0\2b.AssemblyInfo.cs
+D:\vdm\практика\практ C#\17\1\2b\obj\Debug\net5.0\2b.csproj.CoreCompileInputs.cache
+D:\vdm\практика\практ C#\17\1\2b\obj\Debug\net5.0\2b.dll
+D:\vdm\практика\практ C#\17\1\2b\obj\Debug\net5.0\ref\2b.dll
+D:\vdm\практика\практ C#\17\1\2b\obj\Debug\net5.0\2b.pdb
+E:\Практика по праграммированию\GitHub\C-\практика 17\1\2b\bin\Debug\net5.0\2b.deps.json
+E:\Практика по праграммированию\GitHub\C-\практика 17\1\2b\bin\Debug\net5.0\2b.dll
+E:\Практика по праграммированию\GitHub\C-\практика 17\1\2b\bin\Debug\net5.0\ref\2b.dll
+E:\Практика по праграммированию\GitHub\C-\практика 17\1\2b\bin\Debug\net5.0\2b.pdb
+E:\Практика по праграммированию\GitHub\C-\практика 17\1\2b\obj\Debug\net5.0\2b.csproj.AssemblyReference.cache
+E:\Практика по праграммированию\GitHub\C-\практика 17\1\2b\obj\Debug\net5.0\2b.GeneratedMSBuildEditorConfig.editorconfig
+E:\Практика по праграммированию\GitHub\C-\практика 17\1\2b\obj\Debug\net5.0\2b.AssemblyInfoInputs.cache
+E:\Практика по праграммированию\GitHub\C-\практика 17\1\2b\obj\Debug\net5.0\2b.AssemblyInfo.cs
+E:\Практика по праграммированию\GitHub\C-\практика 17\1\2b\obj\Debug\net5.0\2b.csproj.CoreCompileInputs.cache
+E:\Практика по праграммированию\GitHub\C-\практика 17\1\2b\obj\Debug\net5.0\2b.dll
+E:\Практика по праграммированию\GitHub\C-\практика 17\1\2b\obj\Debug\net5.0\ref\2b.dll
+E:\Практика по праграммированию\GitHub\C-\практика 17\1\2b\obj\Debug\net5.0\2b.pdb

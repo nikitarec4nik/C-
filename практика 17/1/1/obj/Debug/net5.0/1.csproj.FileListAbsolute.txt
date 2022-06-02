@@ -1,0 +1,32 @@
+D:\vdm\практика\практ C#\17\1\1\bin\Debug\net5.0\1.exe
+D:\vdm\практика\практ C#\17\1\1\bin\Debug\net5.0\1.deps.json
+D:\vdm\практика\практ C#\17\1\1\bin\Debug\net5.0\1.runtimeconfig.json
+D:\vdm\практика\практ C#\17\1\1\bin\Debug\net5.0\1.runtimeconfig.dev.json
+D:\vdm\практика\практ C#\17\1\1\bin\Debug\net5.0\1.dll
+D:\vdm\практика\практ C#\17\1\1\bin\Debug\net5.0\ref\1.dll
+D:\vdm\практика\практ C#\17\1\1\bin\Debug\net5.0\1.pdb
+D:\vdm\практика\практ C#\17\1\1\obj\Debug\net5.0\1.csproj.AssemblyReference.cache
+D:\vdm\практика\практ C#\17\1\1\obj\Debug\net5.0\1.GeneratedMSBuildEditorConfig.editorconfig
+D:\vdm\практика\практ C#\17\1\1\obj\Debug\net5.0\1.AssemblyInfoInputs.cache
+D:\vdm\практика\практ C#\17\1\1\obj\Debug\net5.0\1.AssemblyInfo.cs
+D:\vdm\практика\практ C#\17\1\1\obj\Debug\net5.0\1.csproj.CoreCompileInputs.cache
+D:\vdm\практика\практ C#\17\1\1\obj\Debug\net5.0\1.dll
+D:\vdm\практика\практ C#\17\1\1\obj\Debug\net5.0\ref\1.dll
+D:\vdm\практика\практ C#\17\1\1\obj\Debug\net5.0\1.pdb
+D:\vdm\практика\практ C#\17\1\1\obj\Debug\net5.0\1.genruntimeconfig.cache
+E:\Практика по праграммированию\GitHub\C-\практика 17\1\1\bin\Debug\net5.0\1.exe
+E:\Практика по праграммированию\GitHub\C-\практика 17\1\1\bin\Debug\net5.0\1.deps.json
+E:\Практика по праграммированию\GitHub\C-\практика 17\1\1\bin\Debug\net5.0\1.runtimeconfig.json
+E:\Практика по праграммированию\GitHub\C-\практика 17\1\1\bin\Debug\net5.0\1.runtimeconfig.dev.json
+E:\Практика по праграммированию\GitHub\C-\практика 17\1\1\bin\Debug\net5.0\1.dll
+E:\Практика по праграммированию\GitHub\C-\практика 17\1\1\bin\Debug\net5.0\ref\1.dll
+E:\Практика по праграммированию\GitHub\C-\практика 17\1\1\bin\Debug\net5.0\1.pdb
+E:\Практика по праграммированию\GitHub\C-\практика 17\1\1\obj\Debug\net5.0\1.csproj.AssemblyReference.cache
+E:\Практика по праграммированию\GitHub\C-\практика 17\1\1\obj\Debug\net5.0\1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Практика по праграммированию\GitHub\C-\практика 17\1\1\obj\Debug\net5.0\1.AssemblyInfoInputs.cache
+E:\Практика по праграммированию\GitHub\C-\практика 17\1\1\obj\Debug\net5.0\1.AssemblyInfo.cs
+E:\Практика по праграммированию\GitHub\C-\практика 17\1\1\obj\Debug\net5.0\1.csproj.CoreCompileInputs.cache
+E:\Практика по праграммированию\GitHub\C-\практика 17\1\1\obj\Debug\net5.0\1.dll
+E:\Практика по праграммированию\GitHub\C-\практика 17\1\1\obj\Debug\net5.0\ref\1.dll
+E:\Практика по праграммированию\GitHub\C-\практика 17\1\1\obj\Debug\net5.0\1.pdb
+E:\Практика по праграммированию\GitHub\C-\практика 17\1\1\obj\Debug\net5.0\1.genruntimeconfig.cache

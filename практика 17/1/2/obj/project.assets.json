@@ -1,0 +1,95 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "2b/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/2b.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/2b.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "2b/1.0.0": {
+      "type": "project",
+      "path": "../2b/2b.csproj",
+      "msbuildProject": "../2b/2b.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "2b >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\HOME\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\Практика по праграммированию\\GitHub\\C-\\практика 17\\1\\2\\2.csproj",
+      "projectName": "2",
+      "projectPath": "E:\\Практика по праграммированию\\GitHub\\C-\\практика 17\\1\\2\\2.csproj",
+      "packagesPath": "C:\\Users\\HOME\\.nuget\\packages\\",
+      "outputPath": "E:\\Практика по праграммированию\\GitHub\\C-\\практика 17\\1\\2\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\HOME\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "E:\\Практика по праграммированию\\GitHub\\C-\\практика 17\\1\\2b\\2b.csproj": {
+              "projectPath": "E:\\Практика по праграммированию\\GitHub\\C-\\практика 17\\1\\2b\\2b.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
