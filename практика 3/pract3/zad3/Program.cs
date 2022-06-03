@@ -2,6 +2,11 @@
 
 namespace zad3
 {
+    /// <summary>
+    /// создание Делегата
+    /// </summary>
+    /// <param name="a"></param>
+    /// <returns></returns>
     class Program
     {
         public static void f(double x, out double y)
