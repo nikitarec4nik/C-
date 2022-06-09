@@ -1,0 +1,10 @@
+D:\vdm\практика\практ C#\23\1\3\bin\Debug\3.exe.config
+D:\vdm\практика\практ C#\23\1\3\bin\Debug\3.exe
+D:\vdm\практика\практ C#\23\1\3\bin\Debug\3.pdb
+D:\vdm\практика\практ C#\23\1\3\obj\Debug\_3.Form1.resources
+D:\vdm\практика\практ C#\23\1\3\obj\Debug\_3.Properties.Resources.resources
+D:\vdm\практика\практ C#\23\1\3\obj\Debug\3.csproj.GenerateResource.cache
+D:\vdm\практика\практ C#\23\1\3\obj\Debug\3.csproj.CoreCompileInputs.cache
+D:\vdm\практика\практ C#\23\1\3\obj\Debug\3.exe
+D:\vdm\практика\практ C#\23\1\3\obj\Debug\3.pdb
+D:\vdm\практика\практ C#\23\1\3\obj\Debug\3.csproj.AssemblyReference.cache
