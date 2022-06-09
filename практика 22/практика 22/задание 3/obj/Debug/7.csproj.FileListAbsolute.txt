@@ -1,0 +1,10 @@
+C:\Users\HOME\Downloads\Практическая часть 22 NET 4.8\Пр. часть 22\задание 3\obj\Debug\7.csproj.AssemblyReference.cache
+C:\Users\HOME\Downloads\Практическая часть 22 NET 4.8\Пр. часть 22\задание 3\obj\Debug\z7.Form1.resources
+C:\Users\HOME\Downloads\Практическая часть 22 NET 4.8\Пр. часть 22\задание 3\obj\Debug\задание_3.Properties.Resources.resources
+C:\Users\HOME\Downloads\Практическая часть 22 NET 4.8\Пр. часть 22\задание 3\obj\Debug\7.csproj.GenerateResource.cache
+C:\Users\HOME\Downloads\Практическая часть 22 NET 4.8\Пр. часть 22\задание 3\obj\Debug\7.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Downloads\Практическая часть 22 NET 4.8\Пр. часть 22\задание 3\obj\Debug\задание 3.exe
+C:\Users\HOME\Downloads\Практическая часть 22 NET 4.8\Пр. часть 22\задание 3\obj\Debug\задание 3.pdb
+C:\Users\HOME\Downloads\Практическая часть 22 NET 4.8\Пр. часть 22\задание 3\bin\Debug\задание 3.exe.config
+C:\Users\HOME\Downloads\Практическая часть 22 NET 4.8\Пр. часть 22\задание 3\bin\Debug\задание 3.exe
+C:\Users\HOME\Downloads\Практическая часть 22 NET 4.8\Пр. часть 22\задание 3\bin\Debug\задание 3.pdb
