@@ -1,5 +1,5 @@
 ﻿
-namespace _3
+namespace _2
 {
     partial class Form1
     {
@@ -29,22 +29,33 @@ namespace _3
         /// </summary>
         private void InitializeComponent()
         {
+            this.userControlTimer1 = new _2.UserControlTimer();
             this.SuspendLayout();
+            // 
+            // userControlTimer1
+            // 
+            this.userControlTimer1.ForeColor = System.Drawing.SystemColors.ControlText;
+            this.userControlTimer1.Location = new System.Drawing.Point(12, 12);
+            this.userControlTimer1.Name = "userControlTimer1";
+            this.userControlTimer1.Size = new System.Drawing.Size(103, 48);
+            this.userControlTimer1.TabIndex = 0;
+            this.userControlTimer1.TimeEnabled = true;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.userControlTimer1);
             this.Name = "Form1";
             this.Text = "Form1";
-            this.Load += new System.EventHandler(this.Form1_Load);
-            this.Paint += new System.Windows.Forms.PaintEventHandler(this.Form1_paint);
             this.ResumeLayout(false);
 
         }
 
         #endregion
+
+        private UserControlTimer userControlTimer1;
     }
 }
 

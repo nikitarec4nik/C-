@@ -40,5 +40,10 @@ namespace _3
             g.DrawLine(pen, 420, 260, 420, 170);
             g.DrawLine(pen, 420, 170, 380, 170);
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
