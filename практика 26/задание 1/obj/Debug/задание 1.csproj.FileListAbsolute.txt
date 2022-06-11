@@ -1,0 +1,125 @@
+D:\Практика по C#\Практическая часть 26 NET 4.8\Пр. часть 26\задание 1\obj\Debug\задание 1.csproj.AssemblyReference.cache
+D:\Практика по C#\Практическая часть 26 NET 4.8\Пр. часть 26\задание 1\obj\Debug\задание 1.csproj.SuggestedBindingRedirects.cache
+D:\Практика по C#\Практическая часть 26 NET 4.8\Пр. часть 26\задание 1\obj\Debug\MainWindow.g.cs
+D:\Практика по C#\Практическая часть 26 NET 4.8\Пр. часть 26\задание 1\obj\Debug\App.g.cs
+D:\Практика по C#\Практическая часть 26 NET 4.8\Пр. часть 26\задание 1\obj\Debug\задание 1_MarkupCompile.cache
+D:\Практика по C#\Практическая часть 26 NET 4.8\Пр. часть 26\задание 1\obj\Debug\задание 1_MarkupCompile.lref
+D:\Практика по C#\Практическая часть 26 NET 4.8\Пр. часть 26\задание 1\bin\Debug\задание 1.exe.config
+D:\Практика по C#\Практическая часть 26 NET 4.8\Пр. часть 26\задание 1\bin\Debug\задание 1.exe
+D:\Практика по C#\Практическая часть 26 NET 4.8\Пр. часть 26\задание 1\bin\Debug\задание 1.pdb
+D:\Практика по C#\Практическая часть 26 NET 4.8\Пр. часть 26\задание 1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Практика по C#\Практическая часть 26 NET 4.8\Пр. часть 26\задание 1\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Практика по C#\Практическая часть 26 NET 4.8\Пр. часть 26\задание 1\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+D:\Практика по C#\Практическая часть 26 NET 4.8\Пр. часть 26\задание 1\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\Практика по C#\Практическая часть 26 NET 4.8\Пр. часть 26\задание 1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Практика по C#\Практическая часть 26 NET 4.8\Пр. часть 26\задание 1\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\Практика по C#\Практическая часть 26 NET 4.8\Пр. часть 26\задание 1\bin\Debug\Microsoft.Extensions.Localization.Abstractions.dll
+D:\Практика по C#\Практическая часть 26 NET 4.8\Пр. часть 26\задание 1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Практика по C#\Практическая часть 26 NET 4.8\Пр. часть 26\задание 1\bin\Debug\Microsoft.Extensions.Logging.Configuration.dll
+D:\Практика по C#\Практическая часть 26 NET 4.8\Пр. часть 26\задание 1\bin\Debug\Microsoft.Extensions.Logging.Console.dll
+D:\Практика по C#\Практическая часть 26 NET 4.8\Пр. часть 26\задание 1\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\Практика по C#\Практическая часть 26 NET 4.8\Пр. часть 26\задание 1\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Практика по C#\Практическая часть 26 NET 4.8\Пр. часть 26\задание 1\bin\Debug\Microsoft.Extensions.Options.dll
+D:\Практика по C#\Практическая часть 26 NET 4.8\Пр. часть 26\задание 1\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Практика по C#\Практическая часть 26 NET 4.8\Пр. часть 26\задание 1\bin\Debug\System.Buffers.dll
+D:\Практика по C#\Практическая часть 26 NET 4.8\Пр. часть 26\задание 1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Практика по C#\Практическая часть 26 NET 4.8\Пр. часть 26\задание 1\bin\Debug\System.Memory.dll
+D:\Практика по C#\Практическая часть 26 NET 4.8\Пр. часть 26\задание 1\bin\Debug\System.Numerics.Vectors.dll
+D:\Практика по C#\Практическая часть 26 NET 4.8\Пр. часть 26\задание 1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Практика по C#\Практическая часть 26 NET 4.8\Пр. часть 26\задание 1\bin\Debug\System.Text.Encodings.Web.dll
+D:\Практика по C#\Практическая часть 26 NET 4.8\Пр. часть 26\задание 1\bin\Debug\System.Text.Json.dll
+D:\Практика по C#\Практическая часть 26 NET 4.8\Пр. часть 26\задание 1\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Практика по C#\Практическая часть 26 NET 4.8\Пр. часть 26\задание 1\bin\Debug\System.ValueTuple.dll
+D:\Практика по C#\Практическая часть 26 NET 4.8\Пр. часть 26\задание 1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Практика по C#\Практическая часть 26 NET 4.8\Пр. часть 26\задание 1\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\Практика по C#\Практическая часть 26 NET 4.8\Пр. часть 26\задание 1\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Практика по C#\Практическая часть 26 NET 4.8\Пр. часть 26\задание 1\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+D:\Практика по C#\Практическая часть 26 NET 4.8\Пр. часть 26\задание 1\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\Практика по C#\Практическая часть 26 NET 4.8\Пр. часть 26\задание 1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Практика по C#\Практическая часть 26 NET 4.8\Пр. часть 26\задание 1\bin\Debug\Microsoft.Extensions.Localization.Abstractions.xml
+D:\Практика по C#\Практическая часть 26 NET 4.8\Пр. часть 26\задание 1\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\Практика по C#\Практическая часть 26 NET 4.8\Пр. часть 26\задание 1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Практика по C#\Практическая часть 26 NET 4.8\Пр. часть 26\задание 1\bin\Debug\Microsoft.Extensions.Logging.Configuration.xml
+D:\Практика по C#\Практическая часть 26 NET 4.8\Пр. часть 26\задание 1\bin\Debug\Microsoft.Extensions.Logging.Console.xml
+D:\Практика по C#\Практическая часть 26 NET 4.8\Пр. часть 26\задание 1\bin\Debug\Microsoft.Extensions.Options.xml
+D:\Практика по C#\Практическая часть 26 NET 4.8\Пр. часть 26\задание 1\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.xml
+D:\Практика по C#\Практическая часть 26 NET 4.8\Пр. часть 26\задание 1\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Практика по C#\Практическая часть 26 NET 4.8\Пр. часть 26\задание 1\bin\Debug\System.Buffers.xml
+D:\Практика по C#\Практическая часть 26 NET 4.8\Пр. часть 26\задание 1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Практика по C#\Практическая часть 26 NET 4.8\Пр. часть 26\задание 1\bin\Debug\System.Memory.xml
+D:\Практика по C#\Практическая часть 26 NET 4.8\Пр. часть 26\задание 1\bin\Debug\System.Numerics.Vectors.xml
+D:\Практика по C#\Практическая часть 26 NET 4.8\Пр. часть 26\задание 1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Практика по C#\Практическая часть 26 NET 4.8\Пр. часть 26\задание 1\bin\Debug\System.Text.Encodings.Web.xml
+D:\Практика по C#\Практическая часть 26 NET 4.8\Пр. часть 26\задание 1\bin\Debug\System.Text.Json.xml
+D:\Практика по C#\Практическая часть 26 NET 4.8\Пр. часть 26\задание 1\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Практика по C#\Практическая часть 26 NET 4.8\Пр. часть 26\задание 1\bin\Debug\System.ValueTuple.xml
+D:\Практика по C#\Практическая часть 26 NET 4.8\Пр. часть 26\задание 1\obj\Debug\MainWindow.baml
+D:\Практика по C#\Практическая часть 26 NET 4.8\Пр. часть 26\задание 1\obj\Debug\задание 1.g.resources
+D:\Практика по C#\Практическая часть 26 NET 4.8\Пр. часть 26\задание 1\obj\Debug\задание_1.Properties.Resources.resources
+D:\Практика по C#\Практическая часть 26 NET 4.8\Пр. часть 26\задание 1\obj\Debug\задание 1.csproj.GenerateResource.cache
+D:\Практика по C#\Практическая часть 26 NET 4.8\Пр. часть 26\задание 1\obj\Debug\задание 1.csproj.CoreCompileInputs.cache
+D:\Практика по C#\Практическая часть 26 NET 4.8\Пр. часть 26\задание 1\obj\Debug\задание 1.csproj.CopyComplete
+D:\Практика по C#\Практическая часть 26 NET 4.8\Пр. часть 26\задание 1\obj\Debug\задание 1.exe
+D:\Практика по C#\Практическая часть 26 NET 4.8\Пр. часть 26\задание 1\obj\Debug\задание 1.pdb
+E:\Практика по праграммированию\GitHub\C-\практика 26\задание 1\bin\Debug\задание 1.exe.config
+E:\Практика по праграммированию\GitHub\C-\практика 26\задание 1\bin\Debug\задание 1.exe
+E:\Практика по праграммированию\GitHub\C-\практика 26\задание 1\bin\Debug\задание 1.pdb
+E:\Практика по праграммированию\GitHub\C-\практика 26\задание 1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Практика по праграммированию\GitHub\C-\практика 26\задание 1\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Практика по праграммированию\GitHub\C-\практика 26\задание 1\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+E:\Практика по праграммированию\GitHub\C-\практика 26\задание 1\bin\Debug\Microsoft.Extensions.Configuration.dll
+E:\Практика по праграммированию\GitHub\C-\практика 26\задание 1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Практика по праграммированию\GitHub\C-\практика 26\задание 1\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+E:\Практика по праграммированию\GitHub\C-\практика 26\задание 1\bin\Debug\Microsoft.Extensions.Localization.Abstractions.dll
+E:\Практика по праграммированию\GitHub\C-\практика 26\задание 1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Практика по праграммированию\GitHub\C-\практика 26\задание 1\bin\Debug\Microsoft.Extensions.Logging.Configuration.dll
+E:\Практика по праграммированию\GitHub\C-\практика 26\задание 1\bin\Debug\Microsoft.Extensions.Logging.Console.dll
+E:\Практика по праграммированию\GitHub\C-\практика 26\задание 1\bin\Debug\Microsoft.Extensions.Logging.dll
+E:\Практика по праграммированию\GitHub\C-\практика 26\задание 1\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+E:\Практика по праграммированию\GitHub\C-\практика 26\задание 1\bin\Debug\Microsoft.Extensions.Options.dll
+E:\Практика по праграммированию\GitHub\C-\практика 26\задание 1\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\Практика по праграммированию\GitHub\C-\практика 26\задание 1\bin\Debug\System.Buffers.dll
+E:\Практика по праграммированию\GitHub\C-\практика 26\задание 1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\Практика по праграммированию\GitHub\C-\практика 26\задание 1\bin\Debug\System.Memory.dll
+E:\Практика по праграммированию\GitHub\C-\практика 26\задание 1\bin\Debug\System.Numerics.Vectors.dll
+E:\Практика по праграммированию\GitHub\C-\практика 26\задание 1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Практика по праграммированию\GitHub\C-\практика 26\задание 1\bin\Debug\System.Text.Encodings.Web.dll
+E:\Практика по праграммированию\GitHub\C-\практика 26\задание 1\bin\Debug\System.Text.Json.dll
+E:\Практика по праграммированию\GitHub\C-\практика 26\задание 1\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Практика по праграммированию\GitHub\C-\практика 26\задание 1\bin\Debug\System.ValueTuple.dll
+E:\Практика по праграммированию\GitHub\C-\практика 26\задание 1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Практика по праграммированию\GitHub\C-\практика 26\задание 1\bin\Debug\Microsoft.Extensions.Configuration.xml
+E:\Практика по праграммированию\GitHub\C-\практика 26\задание 1\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\Практика по праграммированию\GitHub\C-\практика 26\задание 1\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+E:\Практика по праграммированию\GitHub\C-\практика 26\задание 1\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+E:\Практика по праграммированию\GitHub\C-\практика 26\задание 1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\Практика по праграммированию\GitHub\C-\практика 26\задание 1\bin\Debug\Microsoft.Extensions.Localization.Abstractions.xml
+E:\Практика по праграммированию\GitHub\C-\практика 26\задание 1\bin\Debug\Microsoft.Extensions.Logging.xml
+E:\Практика по праграммированию\GitHub\C-\практика 26\задание 1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\Практика по праграммированию\GitHub\C-\практика 26\задание 1\bin\Debug\Microsoft.Extensions.Logging.Configuration.xml
+E:\Практика по праграммированию\GitHub\C-\практика 26\задание 1\bin\Debug\Microsoft.Extensions.Logging.Console.xml
+E:\Практика по праграммированию\GitHub\C-\практика 26\задание 1\bin\Debug\Microsoft.Extensions.Options.xml
+E:\Практика по праграммированию\GitHub\C-\практика 26\задание 1\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.xml
+E:\Практика по праграммированию\GitHub\C-\практика 26\задание 1\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\Практика по праграммированию\GitHub\C-\практика 26\задание 1\bin\Debug\System.Buffers.xml
+E:\Практика по праграммированию\GitHub\C-\практика 26\задание 1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Практика по праграммированию\GitHub\C-\практика 26\задание 1\bin\Debug\System.Memory.xml
+E:\Практика по праграммированию\GitHub\C-\практика 26\задание 1\bin\Debug\System.Numerics.Vectors.xml
+E:\Практика по праграммированию\GitHub\C-\практика 26\задание 1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Практика по праграммированию\GitHub\C-\практика 26\задание 1\bin\Debug\System.Text.Encodings.Web.xml
+E:\Практика по праграммированию\GitHub\C-\практика 26\задание 1\bin\Debug\System.Text.Json.xml
+E:\Практика по праграммированию\GitHub\C-\практика 26\задание 1\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Практика по праграммированию\GitHub\C-\практика 26\задание 1\bin\Debug\System.ValueTuple.xml
+E:\Практика по праграммированию\GitHub\C-\практика 26\задание 1\obj\Debug\задание 1.csproj.AssemblyReference.cache
+E:\Практика по праграммированию\GitHub\C-\практика 26\задание 1\obj\Debug\MainWindow.g.cs
+E:\Практика по праграммированию\GitHub\C-\практика 26\задание 1\obj\Debug\App.g.cs
+E:\Практика по праграммированию\GitHub\C-\практика 26\задание 1\obj\Debug\задание 1_MarkupCompile.cache
+E:\Практика по праграммированию\GitHub\C-\практика 26\задание 1\obj\Debug\задание 1_MarkupCompile.lref
+E:\Практика по праграммированию\GitHub\C-\практика 26\задание 1\obj\Debug\MainWindow.baml
+E:\Практика по праграммированию\GitHub\C-\практика 26\задание 1\obj\Debug\задание 1.g.resources
+E:\Практика по праграммированию\GitHub\C-\практика 26\задание 1\obj\Debug\задание_1.Properties.Resources.resources
+E:\Практика по праграммированию\GitHub\C-\практика 26\задание 1\obj\Debug\задание 1.csproj.GenerateResource.cache
+E:\Практика по праграммированию\GitHub\C-\практика 26\задание 1\obj\Debug\задание 1.csproj.CoreCompileInputs.cache
+E:\Практика по праграммированию\GitHub\C-\практика 26\задание 1\obj\Debug\задание 1.csproj.CopyComplete
+E:\Практика по праграммированию\GitHub\C-\практика 26\задание 1\obj\Debug\задание 1.exe
+E:\Практика по праграммированию\GitHub\C-\практика 26\задание 1\obj\Debug\задание 1.pdb
