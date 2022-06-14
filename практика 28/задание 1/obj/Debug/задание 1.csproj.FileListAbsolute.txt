@@ -1,0 +1,29 @@
+D:\Практика по C#\Практическая часть 28 NET 4.8\Пр. часть 28\задание 1\bin\Debug\задание 1.exe.config
+D:\Практика по C#\Практическая часть 28 NET 4.8\Пр. часть 28\задание 1\bin\Debug\задание 1.exe
+D:\Практика по C#\Практическая часть 28 NET 4.8\Пр. часть 28\задание 1\bin\Debug\задание 1.pdb
+D:\Практика по C#\Практическая часть 28 NET 4.8\Пр. часть 28\задание 1\obj\Debug\задание 1.csproj.AssemblyReference.cache
+D:\Практика по C#\Практическая часть 28 NET 4.8\Пр. часть 28\задание 1\obj\Debug\задание 1.csproj.SuggestedBindingRedirects.cache
+D:\Практика по C#\Практическая часть 28 NET 4.8\Пр. часть 28\задание 1\obj\Debug\MainWindow.baml
+D:\Практика по C#\Практическая часть 28 NET 4.8\Пр. часть 28\задание 1\obj\Debug\MainWindow.g.cs
+D:\Практика по C#\Практическая часть 28 NET 4.8\Пр. часть 28\задание 1\obj\Debug\App.g.cs
+D:\Практика по C#\Практическая часть 28 NET 4.8\Пр. часть 28\задание 1\obj\Debug\задание 1_MarkupCompile.cache
+D:\Практика по C#\Практическая часть 28 NET 4.8\Пр. часть 28\задание 1\obj\Debug\задание 1.g.resources
+D:\Практика по C#\Практическая часть 28 NET 4.8\Пр. часть 28\задание 1\obj\Debug\задание_1.Properties.Resources.resources
+D:\Практика по C#\Практическая часть 28 NET 4.8\Пр. часть 28\задание 1\obj\Debug\задание 1.csproj.GenerateResource.cache
+D:\Практика по C#\Практическая часть 28 NET 4.8\Пр. часть 28\задание 1\obj\Debug\задание 1.csproj.CoreCompileInputs.cache
+D:\Практика по C#\Практическая часть 28 NET 4.8\Пр. часть 28\задание 1\obj\Debug\задание 1.exe
+D:\Практика по C#\Практическая часть 28 NET 4.8\Пр. часть 28\задание 1\obj\Debug\задание 1.pdb
+E:\Практика по праграммированию\GitHub\C-\практика 28\задание 1\bin\Debug\задание 1.exe.config
+E:\Практика по праграммированию\GitHub\C-\практика 28\задание 1\bin\Debug\задание 1.exe
+E:\Практика по праграммированию\GitHub\C-\практика 28\задание 1\bin\Debug\задание 1.pdb
+E:\Практика по праграммированию\GitHub\C-\практика 28\задание 1\obj\Debug\задание 1.csproj.AssemblyReference.cache
+E:\Практика по праграммированию\GitHub\C-\практика 28\задание 1\obj\Debug\MainWindow.baml
+E:\Практика по праграммированию\GitHub\C-\практика 28\задание 1\obj\Debug\MainWindow.g.cs
+E:\Практика по праграммированию\GitHub\C-\практика 28\задание 1\obj\Debug\App.g.cs
+E:\Практика по праграммированию\GitHub\C-\практика 28\задание 1\obj\Debug\задание 1_MarkupCompile.cache
+E:\Практика по праграммированию\GitHub\C-\практика 28\задание 1\obj\Debug\задание 1.g.resources
+E:\Практика по праграммированию\GitHub\C-\практика 28\задание 1\obj\Debug\задание_1.Properties.Resources.resources
+E:\Практика по праграммированию\GitHub\C-\практика 28\задание 1\obj\Debug\задание 1.csproj.GenerateResource.cache
+E:\Практика по праграммированию\GitHub\C-\практика 28\задание 1\obj\Debug\задание 1.csproj.CoreCompileInputs.cache
+E:\Практика по праграммированию\GitHub\C-\практика 28\задание 1\obj\Debug\задание 1.exe
+E:\Практика по праграммированию\GitHub\C-\практика 28\задание 1\obj\Debug\задание 1.pdb
